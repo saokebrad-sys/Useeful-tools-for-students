@@ -10,7 +10,7 @@ A collaborative guide by  -Yvetteamoth06
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [VS Code](#vs-code)
+- [VS Code](#vs-code)ChatGPT is an artificial intelligence chatbot developed by OpenAI that can answer questions, explain concepts, and help with a variety of tasks. Students use ChatGPT to study, understand difficult topics, complete homework, improve their writing, and prepare for exams. It acts like a virtual learning assistant by providing explanations, summaries, and practice questions, helping students learn more effectively and efficiently.
 - [Notion](#notion)
 - [Canva](#canva)
 - [ChatGPT](#chatgpt)
