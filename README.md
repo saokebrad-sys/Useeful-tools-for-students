@@ -36,5 +36,5 @@ Explain what ChatGPT is and how students use it.
 ## Deep seek
 Explian what Deep seek is and how students use it.
 
-##Replit
-Explain what replit is and how students use it.
+## Replit
+Explain how Replit is and how students use it.
