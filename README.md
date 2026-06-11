@@ -52,11 +52,7 @@ How students actually use it
 - *Canva for Education*: 100% free for K-12 students + teachers. Gives you Pro features like background remover, Magic Resize, and 100M+ premium assets. Just need a school email.
 - *Magic tools*: "Magic Write" helps draft text, "Magic Design" turns a prompt into a full slide deck, "Background Remover" cuts out images in one click.
 
-Why it caught on with students
-1. *Zero learning curve*: If you can use Instagram Stories, you can use Canva.
-2. *Speed*: Resize one design into an Instagram post, A4 poster, and slide deck in 2 clicks.
-3. *Templates for everything*: "Cell structure infographic" or "Rhetorical analysis essay cover page" probably exists already.
-4. *No install*: Runs in a browser. Perfect for school Chromebooks.
+
 
 
 
