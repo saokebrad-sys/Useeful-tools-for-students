@@ -31,7 +31,7 @@ Explain what Notion is and how students use it.
 ## Canva
 *Canva* is a free, browser-based design platform that makes it easy to create visuals without needing Photoshop or graphic design skills. Think of it as drag-and-drop design for everything.
 
-You get thousands of templates, stock photos, icons, fonts, and graphics. You pick a template, swap in your text/images, and export. It works on phone, tablet, or laptop, and saves everything to the cloud.
+
 
 How students actually use it
 
